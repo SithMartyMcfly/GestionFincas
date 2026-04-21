@@ -1,0 +1,7 @@
+NIF;NOMBRE;DIRECCION;TELEFONO;PRESIDENTE
+11111111A;Juan Pérez;C/ Real 12;600111111;true
+22222222B;María López;Av. Andalucía 45;600222222;true
+33333333C;Carlos Ruiz;C/ Sevilla 8;600333333;false
+44444444D;Ana Torres;C/ Mayor 3;600444444;false
+55555555E;Pedro Sánchez;C/ Sol 19;600555555;false
+66666666F;Lucía Gómez;C/ Luna 7;600666666;false
